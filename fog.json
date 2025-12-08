@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "maintainer": "AloozChips",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi 10C",
+      "filename": "EvolutionX-16.0-20251130-fog-11.5-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/aloozchips-builds/files/EvoX/fog-wind-rain/EvolutionX-16.0-20251130-fog-11.5-Unofficial.zip/download",
+      "timestamp": 1764481570,
+      "md5": "a683c97059219b8e3ce4d2150201e874",
+      "sha256": "bc125ed2733a5a3ad23a5f36110ca6057530d96ed595d5f65fe558c1dcd1d83b",
+      "size": 2598254708,
+      "version": "11.5",
+      "buildtype": "user",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "AloozChips",
+      "initial_installation_images": [
+        "boot"
+      ],
+      "extra_images": []
+    }
+  ]
+}

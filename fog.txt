@@ -1,0 +1,75 @@
+November 30, 2025
+- Switched maintainership to AloozChips
+- Android 16 QPR1
+- Upgraded security Patch
+- Updated to EvolutionX 11.5
+- Erofs Build
+- New prebuilt erofs KSU kernel
+- Bug fixes
+
+November 04, 2025
+- Upgraded security Patch
+- Updated to EvolutionX 11.3
+- Switched to common QCOM AIDL bootctrl HAL
+- Make SurfaceFlinger latch all buffers unsignaled
+- Reverted move input surface to CCodec
+- Bug fixes
+
+September 25, 2025
+- Upgraded security Patch
+- Return of a few features
+- Latest kernel prebuilts
+- Bug fixes
+
+August 03, 2025
+- status bar brightness control
+- status bar ongoing progress chip
+- enable/disable quick settings swipe down on lockscreen
+- sidebar/freeform windows
+- lockscreen media art
+- fp unlock ripple/auth vibration
+- Fixed evolver crashing issues
+- Fixed RAM Management - source
+- Migrated from TARGET_INIT_VENDOR_LIB to soong_config_set,libinit,vendor_init_lib for Init - device
+- Improved Stability - source
+- Updated to EvolutionX 11.0 Stable
+- Upgraded Security Patch
+- Hidden a few options from Evolver
+- Based on latest LineageOS 23.0
+- Based on Android 16
+- Bug fixes
+
+May 10,2025
+- Updated to EvolutionX 10.6
+- Enable split shade QS on landscape mode
+- Reduce default DPI size to 280
+- Added Google Recorder
+- Bug fixes
+- Security Patch Upgrade
+
+April 19,2025
+- Updated to EvolutionX 10.5
+- Initial QPR2 Build
+- Security Patch Upgrade
+- Fixed navbar - source
+- Improved stability - source
+- Bug fixes
+
+April 6, 2025
+- Added Gamebar
+- Improved performance, efficiency and stability on both source and device side
+- Reverted to old QS panel - source
+- Changes at pixel-fw repo - source
+
+March 31, 2025
+- LockScreen Mods return
+- QS Data Usage return
+- Evo Recovery Changes
+- Bug fixes
+
+
+March 30, 2025
+- Updated to 10.4
+- Modernize Tap to wake
+- Removed Useless NFC stuff
+- OTA Support
