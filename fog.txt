@@ -1,3 +1,15 @@
+January 24, 2026
+- Android 16 QPR2
+- Updated to EvolutionX 11.6
+- January 2026 security Patch
+- Reverted erofs to ext4
+- Bug fixes
+
+December 20, 2025
+- Updated to EvolutionX 11.5.1
+- December security Patch
+- Bug fixes
+
 November 30, 2025
 - Switched maintainership to AloozChips
 - Android 16 QPR1
