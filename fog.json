@@ -1,21 +1,21 @@
 {
   "response": [
     {
-      "maintainer": "AloozChips",
+      "maintainer": "𝙰𝚛𝚊𝚗𝚢𝚊🧃",
       "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "Redmi 10C",
-      "filename": "EvolutionX-16.0-20260124-fog-11.6-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/aloozchips-builds/files/EvoX/fog-wind-rain/EvolutionX-16.0-20260124-fog-11.6-Unofficial.zip/download",
-      "timestamp": 1769236866,
-      "md5": "e00602dea0b157601cf85d8507f24f0c",
-      "sha256": "f5d74eb39f5f248451f2b563ca8d0205d3e417bd53fa2b46c28a03710deb7f11",
-      "size": 2352556176,
-      "version": "11.6",
+      "filename": "EvolutionX-16.0-20260220-fog-11.6.1-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/aloozchips-builds/files/EvoX/fog-wind-rain/EvolutionX-16.0-20260220-fog-11.6.1-Unofficial.zip/download",
+      "timestamp": 1771585011,
+      "md5": "1a01e41f6ea935f72fc837a323f5510a",
+      "sha256": "479ae66b0d5ca0719fe6cd6ac44281abd2ac7c38ff8b96bf1663f0041755b66a",
+      "size": 2352790954,
+      "version": "11.6.1",
       "buildtype": "user",
       "forum": "",
       "firmware": "https://xmfirmwareupdater.com/firmware/fog/stable/V14.0.9.0.TGEMIXM",
-      "paypal": "",
+      "paypal": "https://pathaopay.me/Aranya",
       "github": "https://github.com/AloozChips",
       "initial_installation_images": [
         "boot"

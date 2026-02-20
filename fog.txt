@@ -1,3 +1,10 @@
+Febryary 20, 2026
+- Updated to EvolutionX 11.6.1
+- February 2026 security Patch
+- KSU kernel by default
+- Some new features
+- Bug fixes
+
 January 24, 2026
 - Android 16 QPR2
 - Updated to EvolutionX 11.6
