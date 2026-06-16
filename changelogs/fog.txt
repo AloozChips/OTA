@@ -1,3 +1,9 @@
+June 16, 2026
+- Updated to EvolutionX 11.8
+- June 2026 security Patch
+- Updated prebuilt kernel with KSU
+- Bug fixes
+
 May 15, 2026
 - Updated to EvolutionX 11.7
 - May 2026 security Patch
